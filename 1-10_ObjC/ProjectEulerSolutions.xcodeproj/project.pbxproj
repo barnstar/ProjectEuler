@@ -1,0 +1,433 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C23BD9A41E4CB262004F8AFD /* JNSolution4.m in Sources */ = {isa = PBXBuildFile; fileRef = C23BD9A31E4CB262004F8AFD /* JNSolution4.m */; };
+		C23BD9A81E4CB72D004F8AFD /* JNSolutionUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = C23BD9A71E4CB72D004F8AFD /* JNSolutionUtil.m */; };
+		C23BD9AB1E4CB7B5004F8AFD /* JNSolution5.m in Sources */ = {isa = PBXBuildFile; fileRef = C23BD9AA1E4CB7B5004F8AFD /* JNSolution5.m */; };
+		C23BD9B41E4CCAE4004F8AFD /* JNSolution6.m in Sources */ = {isa = PBXBuildFile; fileRef = C23BD9B31E4CCAE4004F8AFD /* JNSolution6.m */; };
+		C23BD9B71E4CCF8E004F8AFD /* JNSolution7.m in Sources */ = {isa = PBXBuildFile; fileRef = C23BD9B61E4CCF8E004F8AFD /* JNSolution7.m */; };
+		C23BD9BB1E4CDB28004F8AFD /* JNSolution8.m in Sources */ = {isa = PBXBuildFile; fileRef = C23BD9BA1E4CDB28004F8AFD /* JNSolution8.m */; };
+		C23BD9BE1E4CE251004F8AFD /* JNSolution9.m in Sources */ = {isa = PBXBuildFile; fileRef = C23BD9BD1E4CE251004F8AFD /* JNSolution9.m */; };
+		C26DE7DD1E5CA28000B02FF2 /* JNSolution10.m in Sources */ = {isa = PBXBuildFile; fileRef = C26DE7DC1E5CA28000B02FF2 /* JNSolution10.m */; };
+		C2BF1C711E4BC28100AA0A26 /* JNSolution1.m in Sources */ = {isa = PBXBuildFile; fileRef = C2BF1C701E4BC28100AA0A26 /* JNSolution1.m */; };
+		C2BF1C741E4BC70800AA0A26 /* JNSolution2.m in Sources */ = {isa = PBXBuildFile; fileRef = C2BF1C731E4BC70800AA0A26 /* JNSolution2.m */; };
+		C2BF1C771E4BCB4500AA0A26 /* JNSolution3.m in Sources */ = {isa = PBXBuildFile; fileRef = C2BF1C761E4BCB4500AA0A26 /* JNSolution3.m */; };
+		C2CB1CA21E4B610F00A9933E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C2CB1CA11E4B610F00A9933E /* main.m */; };
+		C2CB1CA51E4B610F00A9933E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C2CB1CA41E4B610F00A9933E /* AppDelegate.m */; };
+		C2CB1CA81E4B610F00A9933E /* JNSolutionPickerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = C2CB1CA71E4B610F00A9933E /* JNSolutionPickerVC.m */; };
+		C2CB1CAB1E4B610F00A9933E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2CB1CA91E4B610F00A9933E /* Main.storyboard */; };
+		C2CB1CAD1E4B610F00A9933E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2CB1CAC1E4B610F00A9933E /* Assets.xcassets */; };
+		C2CB1CB01E4B610F00A9933E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2CB1CAE1E4B610F00A9933E /* LaunchScreen.storyboard */; };
+		C2CB1CB91E4B616E00A9933E /* JNSolutionVC.m in Sources */ = {isa = PBXBuildFile; fileRef = C2CB1CB81E4B616E00A9933E /* JNSolutionVC.m */; };
+		C2CB1CBC1E4B624A00A9933E /* JNProblemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C2CB1CBB1E4B624A00A9933E /* JNProblemCell.m */; };
+		C2CB1CBF1E4B63EC00A9933E /* JNSolutionsController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2CB1CBE1E4B63EC00A9933E /* JNSolutionsController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C23BD9A21E4CB262004F8AFD /* JNSolution4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution4.h; sourceTree = "<group>"; };
+		C23BD9A31E4CB262004F8AFD /* JNSolution4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution4.m; sourceTree = "<group>"; };
+		C23BD9A61E4CB72D004F8AFD /* JNSolutionUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolutionUtil.h; sourceTree = "<group>"; };
+		C23BD9A71E4CB72D004F8AFD /* JNSolutionUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolutionUtil.m; sourceTree = "<group>"; };
+		C23BD9A91E4CB7B5004F8AFD /* JNSolution5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution5.h; sourceTree = "<group>"; };
+		C23BD9AA1E4CB7B5004F8AFD /* JNSolution5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution5.m; sourceTree = "<group>"; };
+		C23BD9B21E4CCAE4004F8AFD /* JNSolution6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution6.h; sourceTree = "<group>"; };
+		C23BD9B31E4CCAE4004F8AFD /* JNSolution6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution6.m; sourceTree = "<group>"; };
+		C23BD9B51E4CCF8E004F8AFD /* JNSolution7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution7.h; sourceTree = "<group>"; };
+		C23BD9B61E4CCF8E004F8AFD /* JNSolution7.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution7.m; sourceTree = "<group>"; };
+		C23BD9B91E4CDB28004F8AFD /* JNSolution8.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution8.h; sourceTree = "<group>"; };
+		C23BD9BA1E4CDB28004F8AFD /* JNSolution8.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution8.m; sourceTree = "<group>"; };
+		C23BD9BC1E4CE251004F8AFD /* JNSolution9.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution9.h; sourceTree = "<group>"; };
+		C23BD9BD1E4CE251004F8AFD /* JNSolution9.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution9.m; sourceTree = "<group>"; };
+		C26DE7DB1E5CA28000B02FF2 /* JNSolution10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution10.h; sourceTree = "<group>"; };
+		C26DE7DC1E5CA28000B02FF2 /* JNSolution10.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution10.m; sourceTree = "<group>"; };
+		C2BF1C6F1E4BC28100AA0A26 /* JNSolution1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution1.h; sourceTree = "<group>"; };
+		C2BF1C701E4BC28100AA0A26 /* JNSolution1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution1.m; sourceTree = "<group>"; };
+		C2BF1C721E4BC70800AA0A26 /* JNSolution2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution2.h; sourceTree = "<group>"; };
+		C2BF1C731E4BC70800AA0A26 /* JNSolution2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution2.m; sourceTree = "<group>"; };
+		C2BF1C751E4BCB4500AA0A26 /* JNSolution3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolution3.h; sourceTree = "<group>"; };
+		C2BF1C761E4BCB4500AA0A26 /* JNSolution3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolution3.m; sourceTree = "<group>"; };
+		C2CB1C9D1E4B610F00A9933E /* ProjectEulerSolutions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectEulerSolutions.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2CB1CA11E4B610F00A9933E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C2CB1CA31E4B610F00A9933E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C2CB1CA41E4B610F00A9933E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C2CB1CA61E4B610F00A9933E /* JNSolutionPickerVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JNSolutionPickerVC.h; sourceTree = "<group>"; };
+		C2CB1CA71E4B610F00A9933E /* JNSolutionPickerVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JNSolutionPickerVC.m; sourceTree = "<group>"; };
+		C2CB1CAA1E4B610F00A9933E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C2CB1CAC1E4B610F00A9933E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C2CB1CAF1E4B610F00A9933E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C2CB1CB11E4B610F00A9933E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2CB1CB71E4B616E00A9933E /* JNSolutionVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolutionVC.h; sourceTree = "<group>"; };
+		C2CB1CB81E4B616E00A9933E /* JNSolutionVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolutionVC.m; sourceTree = "<group>"; };
+		C2CB1CBA1E4B624A00A9933E /* JNProblemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNProblemCell.h; sourceTree = "<group>"; };
+		C2CB1CBB1E4B624A00A9933E /* JNProblemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNProblemCell.m; sourceTree = "<group>"; };
+		C2CB1CBD1E4B63EC00A9933E /* JNSolutionsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNSolutionsController.h; sourceTree = "<group>"; };
+		C2CB1CBE1E4B63EC00A9933E /* JNSolutionsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNSolutionsController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C2CB1C9A1E4B610F00A9933E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C23BD9A51E4CB710004F8AFD /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				C23BD9A61E4CB72D004F8AFD /* JNSolutionUtil.h */,
+				C23BD9A71E4CB72D004F8AFD /* JNSolutionUtil.m */,
+			);
+			name = Util;
+			sourceTree = "<group>";
+		};
+		C23BD9B81E4CDB10004F8AFD /* 1-10 */ = {
+			isa = PBXGroup;
+			children = (
+				C2BF1C6F1E4BC28100AA0A26 /* JNSolution1.h */,
+				C2BF1C701E4BC28100AA0A26 /* JNSolution1.m */,
+				C2BF1C721E4BC70800AA0A26 /* JNSolution2.h */,
+				C2BF1C731E4BC70800AA0A26 /* JNSolution2.m */,
+				C2BF1C751E4BCB4500AA0A26 /* JNSolution3.h */,
+				C2BF1C761E4BCB4500AA0A26 /* JNSolution3.m */,
+				C23BD9A21E4CB262004F8AFD /* JNSolution4.h */,
+				C23BD9A31E4CB262004F8AFD /* JNSolution4.m */,
+				C23BD9A91E4CB7B5004F8AFD /* JNSolution5.h */,
+				C23BD9AA1E4CB7B5004F8AFD /* JNSolution5.m */,
+				C23BD9B21E4CCAE4004F8AFD /* JNSolution6.h */,
+				C23BD9B31E4CCAE4004F8AFD /* JNSolution6.m */,
+				C23BD9B51E4CCF8E004F8AFD /* JNSolution7.h */,
+				C23BD9B61E4CCF8E004F8AFD /* JNSolution7.m */,
+				C23BD9B91E4CDB28004F8AFD /* JNSolution8.h */,
+				C23BD9BA1E4CDB28004F8AFD /* JNSolution8.m */,
+				C23BD9BC1E4CE251004F8AFD /* JNSolution9.h */,
+				C23BD9BD1E4CE251004F8AFD /* JNSolution9.m */,
+				C26DE7DB1E5CA28000B02FF2 /* JNSolution10.h */,
+				C26DE7DC1E5CA28000B02FF2 /* JNSolution10.m */,
+			);
+			name = "1-10";
+			sourceTree = "<group>";
+		};
+		C2BF1C6D1E4BC23000AA0A26 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				C2CB1CA91E4B610F00A9933E /* Main.storyboard */,
+				C2CB1CA61E4B610F00A9933E /* JNSolutionPickerVC.h */,
+				C2CB1CA71E4B610F00A9933E /* JNSolutionPickerVC.m */,
+				C2CB1CB71E4B616E00A9933E /* JNSolutionVC.h */,
+				C2CB1CB81E4B616E00A9933E /* JNSolutionVC.m */,
+				C2CB1CBA1E4B624A00A9933E /* JNProblemCell.h */,
+				C2CB1CBB1E4B624A00A9933E /* JNProblemCell.m */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		C2BF1C6E1E4BC25A00AA0A26 /* Solutions */ = {
+			isa = PBXGroup;
+			children = (
+				C23BD9B81E4CDB10004F8AFD /* 1-10 */,
+				C2CB1CBD1E4B63EC00A9933E /* JNSolutionsController.h */,
+				C2CB1CBE1E4B63EC00A9933E /* JNSolutionsController.m */,
+			);
+			name = Solutions;
+			sourceTree = "<group>";
+		};
+		C2CB1C941E4B610F00A9933E = {
+			isa = PBXGroup;
+			children = (
+				C2CB1C9F1E4B610F00A9933E /* ProjectEulerSolutions */,
+				C2CB1C9E1E4B610F00A9933E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C2CB1C9E1E4B610F00A9933E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C2CB1C9D1E4B610F00A9933E /* ProjectEulerSolutions.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C2CB1C9F1E4B610F00A9933E /* ProjectEulerSolutions */ = {
+			isa = PBXGroup;
+			children = (
+				C23BD9A51E4CB710004F8AFD /* Util */,
+				C2BF1C6E1E4BC25A00AA0A26 /* Solutions */,
+				C2BF1C6D1E4BC23000AA0A26 /* UI */,
+				C2CB1CA31E4B610F00A9933E /* AppDelegate.h */,
+				C2CB1CA41E4B610F00A9933E /* AppDelegate.m */,
+				C2CB1CAC1E4B610F00A9933E /* Assets.xcassets */,
+				C2CB1CAE1E4B610F00A9933E /* LaunchScreen.storyboard */,
+				C2CB1CB11E4B610F00A9933E /* Info.plist */,
+				C2CB1CA01E4B610F00A9933E /* Supporting Files */,
+			);
+			path = ProjectEulerSolutions;
+			sourceTree = "<group>";
+		};
+		C2CB1CA01E4B610F00A9933E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C2CB1CA11E4B610F00A9933E /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C2CB1C9C1E4B610F00A9933E /* ProjectEulerSolutions */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C2CB1CB41E4B610F00A9933E /* Build configuration list for PBXNativeTarget "ProjectEulerSolutions" */;
+			buildPhases = (
+				C2CB1C991E4B610F00A9933E /* Sources */,
+				C2CB1C9A1E4B610F00A9933E /* Frameworks */,
+				C2CB1C9B1E4B610F00A9933E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ProjectEulerSolutions;
+			productName = ProjectEulerSolutions;
+			productReference = C2CB1C9D1E4B610F00A9933E /* ProjectEulerSolutions.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C2CB1C951E4B610F00A9933E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = JNobels;
+				TargetAttributes = {
+					C2CB1C9C1E4B610F00A9933E = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C2CB1C981E4B610F00A9933E /* Build configuration list for PBXProject "ProjectEulerSolutions" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C2CB1C941E4B610F00A9933E;
+			productRefGroup = C2CB1C9E1E4B610F00A9933E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C2CB1C9C1E4B610F00A9933E /* ProjectEulerSolutions */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C2CB1C9B1E4B610F00A9933E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C2CB1CB01E4B610F00A9933E /* LaunchScreen.storyboard in Resources */,
+				C2CB1CAD1E4B610F00A9933E /* Assets.xcassets in Resources */,
+				C2CB1CAB1E4B610F00A9933E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C2CB1C991E4B610F00A9933E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C2BF1C771E4BCB4500AA0A26 /* JNSolution3.m in Sources */,
+				C23BD9A81E4CB72D004F8AFD /* JNSolutionUtil.m in Sources */,
+				C2CB1CA81E4B610F00A9933E /* JNSolutionPickerVC.m in Sources */,
+				C23BD9BB1E4CDB28004F8AFD /* JNSolution8.m in Sources */,
+				C2CB1CA51E4B610F00A9933E /* AppDelegate.m in Sources */,
+				C2CB1CBF1E4B63EC00A9933E /* JNSolutionsController.m in Sources */,
+				C23BD9BE1E4CE251004F8AFD /* JNSolution9.m in Sources */,
+				C2CB1CA21E4B610F00A9933E /* main.m in Sources */,
+				C23BD9B71E4CCF8E004F8AFD /* JNSolution7.m in Sources */,
+				C23BD9AB1E4CB7B5004F8AFD /* JNSolution5.m in Sources */,
+				C23BD9B41E4CCAE4004F8AFD /* JNSolution6.m in Sources */,
+				C23BD9A41E4CB262004F8AFD /* JNSolution4.m in Sources */,
+				C2BF1C711E4BC28100AA0A26 /* JNSolution1.m in Sources */,
+				C2CB1CB91E4B616E00A9933E /* JNSolutionVC.m in Sources */,
+				C2CB1CBC1E4B624A00A9933E /* JNProblemCell.m in Sources */,
+				C2BF1C741E4BC70800AA0A26 /* JNSolution2.m in Sources */,
+				C26DE7DD1E5CA28000B02FF2 /* JNSolution10.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C2CB1CA91E4B610F00A9933E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C2CB1CAA1E4B610F00A9933E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C2CB1CAE1E4B610F00A9933E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C2CB1CAF1E4B610F00A9933E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C2CB1CB21E4B610F00A9933E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C2CB1CB31E4B610F00A9933E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C2CB1CB51E4B610F00A9933E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = ProjectEulerSolutions/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jnobels.ProjectEulerSolutions;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C2CB1CB61E4B610F00A9933E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = ProjectEulerSolutions/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jnobels.ProjectEulerSolutions;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C2CB1C981E4B610F00A9933E /* Build configuration list for PBXProject "ProjectEulerSolutions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C2CB1CB21E4B610F00A9933E /* Debug */,
+				C2CB1CB31E4B610F00A9933E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C2CB1CB41E4B610F00A9933E /* Build configuration list for PBXNativeTarget "ProjectEulerSolutions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C2CB1CB51E4B610F00A9933E /* Debug */,
+				C2CB1CB61E4B610F00A9933E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C2CB1C951E4B610F00A9933E /* Project object */;
+}
